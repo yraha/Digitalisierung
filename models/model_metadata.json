@@ -1,0 +1,14 @@
+{
+  "trained_at": "2026-07-14T22:38:20",
+  "feature_cols": [
+    "Stromverbrauch [A]",
+    "Kugellagertemperatur [°C]",
+    "Motortemperatur [°C]",
+    "Drehzahl [U/min]"
+  ],
+  "warning_threshold": 0.024810166474401554,
+  "critical_threshold": 0.10593827760601437,
+  "n_training_rows_normal": 64,
+  "n_validation_rows_normal": 16,
+  "epochs_used": 300
+}
